@@ -6,7 +6,7 @@
 
 // ID формы из ссылки РЕДАКТИРОВАНИЯ: https://docs.google.com/forms/d/ВОТ_ЭТО/edit
 // (ссылка для прохождения /d/e/1FAIpQLS... для скрипта не подходит)
-var EXAM_FORM_ID = 'ВСТАВЬ_СЮДА_ID_ФОРМЫ';
+var EXAM_FORM_ID = 'https://docs.google.com/forms/d/1fuHKi0h6xuqfwRhRUnJA5H9DFz-ttqCKZO5qnrzYrgA/edit';
 
 // По названию вопроса скрипт сам находит, где ник в Telegram, имя и машина.
 // Если названия в твоей форме другие, добавь слова сюда. Админ всё равно может поправить поля вручную.
